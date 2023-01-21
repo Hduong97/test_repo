@@ -4952,11 +4952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Api\\Globo.TicketMng.Api.csproj",
+      "projectUniqueName": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Api\\Globo.TicketMng.Api.csproj",
       "projectName": "Globo.TicketMng.Api",
-      "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Api\\Globo.TicketMng.Api.csproj",
+      "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Api\\Globo.TicketMng.Api.csproj",
       "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
-      "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Api\\obj\\",
+      "outputPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4973,14 +4973,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj": {
-              "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj"
+            "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj": {
+              "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj"
             },
-            "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj": {
-              "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj"
+            "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj": {
+              "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj"
             },
-            "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj": {
-              "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj"
+            "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj": {
+              "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj"
             }
           }
         }

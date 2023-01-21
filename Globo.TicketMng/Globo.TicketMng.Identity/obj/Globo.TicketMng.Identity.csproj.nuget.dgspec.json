@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj": {}
+    "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj": {}
   },
   "projects": {
-    "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj": {
+    "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj",
+        "projectUniqueName": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj",
         "projectName": "Globo.TicketMng.Identity",
-        "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj",
+        "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Identity\\Globo.TicketMng.Identity.csproj",
         "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
-        "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Identity\\obj\\",
+        "outputPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

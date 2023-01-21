@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aP+Fkp+rrKJBWDF16DzX1dteWncE3LQhPAr9aK2jRsoQh9qSjosRkR4gZJ9IeeZuUi80BvWEuxr9QsXmZGL1tQ==",
+  "dgSpecHash": "2NjVzpPxHgXGuJYIUCCxNELDuWQSLSeQfGnHlbyMCY8uPnTM0FPh+6YbG02NWn1PjjO0bZ/g6P1VqVscUgPYsw==",
   "success": true,
-  "projectFilePath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj",
+  "projectFilePath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hai Duong\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Hai Duong\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

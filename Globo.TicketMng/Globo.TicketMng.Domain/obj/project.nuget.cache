@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s48JNfdFZ2hHxUoFMkyIr/IiqBlogGZrfelWLKYUQbWIHcQxk3O/K3RLFib3hGdVAvc+d8/itMwIrqi8gvln9g==",
+  "dgSpecHash": "8fZ6XqlAXm1tq2ECcW0IUE5cpYM1fqj6rRS8gQoVDEVxPNPg6+B+nW0FiLb3DEBXd32SHROomWIDzrDkY3tO8g==",
   "success": true,
-  "projectFilePath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
+  "projectFilePath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

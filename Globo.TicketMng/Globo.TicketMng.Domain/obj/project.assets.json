@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
+      "projectUniqueName": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
       "projectName": "Globo.TicketMng.Domain",
-      "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
+      "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
       "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
-      "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\obj\\",
+      "outputPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",

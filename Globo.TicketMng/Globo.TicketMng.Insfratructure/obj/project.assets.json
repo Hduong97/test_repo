@@ -3116,11 +3116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj",
+      "projectUniqueName": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj",
       "projectName": "Globo.TicketMng.Insfratructure",
-      "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj",
+      "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\Globo.TicketMng.Insfratructure.csproj",
       "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
-      "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\obj\\",
+      "outputPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Insfratructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3137,8 +3137,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj": {
-              "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj"
+            "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj": {
+              "projectPath": "D:\\Me\\Demo\\Test Repo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj"
             }
           }
         }
