@@ -1,0 +1,11 @@
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\bin\Debug\net6.0\Globo.TicketMng.Domain.deps.json
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\bin\Debug\net6.0\Globo.TicketMng.Domain.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\bin\Debug\net6.0\ref\Globo.TicketMng.Domain.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\bin\Debug\net6.0\Globo.TicketMng.Domain.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\Globo.TicketMng.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\Globo.TicketMng.Domain.AssemblyInfoInputs.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\Globo.TicketMng.Domain.AssemblyInfo.cs
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\Globo.TicketMng.Domain.csproj.CoreCompileInputs.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\Globo.TicketMng.Domain.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\ref\Globo.TicketMng.Domain.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Domain\obj\Debug\net6.0\Globo.TicketMng.Domain.pdb

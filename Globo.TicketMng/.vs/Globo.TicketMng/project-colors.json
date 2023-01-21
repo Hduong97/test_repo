@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cbe124b-9b9c-4cd3-b06d-bb49798861c4": {
+      "ProjectGuid": "8cbe124b-9b9c-4cd3-b06d-bb49798861c4",
+      "DisplayName": "Globo.TicketMng.Domain",
+      "ColorIndex": 0
+    },
+    "322a04fd-3f79-465e-8e80-f961284bdc8e": {
+      "ProjectGuid": "322a04fd-3f79-465e-8e80-f961284bdc8e",
+      "DisplayName": "Globo.TicketMng.Application",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4858a1b8-0c19-4ec0-a34a-99470ceb0d71": {
+      "ProjectGuid": "4858a1b8-0c19-4ec0-a34a-99470ceb0d71",
+      "DisplayName": "Globo.TicketMng.Persistence",
+      "ColorIndex": 2
+    },
+    "0d07c424-976c-40f9-acaf-72f4589c5151": {
+      "ProjectGuid": "0d07c424-976c-40f9-acaf-72f4589c5151",
+      "DisplayName": "Globo.TicketMng.Insfratructure",
+      "ColorIndex": 3
+    },
+    "41ff2c4f-51a2-4a64-9e7e-02eff0662fdb": {
+      "ProjectGuid": "41ff2c4f-51a2-4a64-9e7e-02eff0662fdb",
+      "DisplayName": "Globo.TicketMng.API",
+      "ColorIndex": 4
+    },
+    "99de68ac-7216-4078-9c9d-80aebbcb5496": {
+      "ProjectGuid": "99de68ac-7216-4078-9c9d-80aebbcb5496",
+      "DisplayName": "Globo.TicketMng.Api",
+      "ColorIndex": 5
+    },
+    "a3b4fda7-7323-45f0-9d69-9a3165910cc4": {
+      "ProjectGuid": "a3b4fda7-7323-45f0-9d69-9a3165910cc4",
+      "DisplayName": "Globo.TicketMng.Identity",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

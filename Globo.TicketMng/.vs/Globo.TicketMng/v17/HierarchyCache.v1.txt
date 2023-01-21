@@ -1,0 +1,296 @@
+﻿++Solution 'Globo.TicketMng' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:Globo.TicketMng.sln
+++test
+i:{00000000-0000-0000-0000-000000000000}:test
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++API
+i:{af3a8cab-f30b-4c82-a39a-a5985fa9b9d5}:API
+++Globo.TicketMng.Api
+i:{737f8a6c-4f97-41ca-a9eb-d76c6d87da8a}:Globo.TicketMng.Api
+++Connected Services 
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:>659
+++Dependencies
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:>658
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:>422
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:>420
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:>423
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>421
+++Properties
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\properties\
+++Controllers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\controllers\
+++appsettings.json
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\appsettings.json
+++Program.cs
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\program.cs
+++No service dependencies discovered
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:>660
+++Analyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:analyzers
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:analyzers
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:analyzers
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:analyzers
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:analyzers
+++Frameworks
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:frameworks
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:frameworks
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:frameworks
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:frameworks
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:frameworks
+++Projects
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:projects
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:projects
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:projects
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:projects
+++launchSettings.json
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\properties\launchsettings.json
+++appsettings.Development.json
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\users\hai duong\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:c:\users\hai duong\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:c:\users\hai duong\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\microsoft.netcore.app
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\microsoft.netcore.app
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:d:\me\demo\globo.ticketmng\globo.ticketmng.insfratructure\microsoft.netcore.app
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\microsoft.netcore.app
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\microsoft.netcore.app
+++Globo.TicketMng.Application
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\globo.ticketmng.application.csproj
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\bin\debug\net6.0\globo.ticketmng.application.dll
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\bin\debug\net6.0\globo.ticketmng.application.dll
+i:{a5267f7d-e742-4f28-aa46-230a61962ead}:Globo.TicketMng.Application
+++Globo.TicketMng.Insfratructure
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.insfratructure\globo.ticketmng.insfratructure.csproj
+i:{ac6d8f83-c813-4413-8b96-3a3775b96a74}:Globo.TicketMng.Insfratructure
+++Globo.TicketMng.Persistence
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\globo.ticketmng.persistence.csproj
+i:{ac6d8f83-c813-4413-8b96-3a3775b96a74}:Globo.TicketMng.Persistence
+++Insfratructure
+i:{af3a8cab-f30b-4c82-a39a-a5985fa9b9d5}:Insfratructure
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\insfratructure\
+++Configurations
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\configurations\
+++Repositories
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\repositories\
+++PersistenceServiceRegistration.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\persistenceserviceregistration.cs
+++TicketMngDbContext.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\ticketmngdbcontext.cs
+++Packages
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:packages
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:packages
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:packages
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:packages
+++EventConfiguration.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\configurations\eventconfiguration.cs
+++BaseRepository.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\repositories\baserepository.cs
+++CategoryRepository.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\repositories\categoryrepository.cs
+++EventRepository.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\repositories\eventrepository.cs
+++OrderRepository.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\repositories\orderrepository.cs
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:>715
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:>716
+++Mail
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:d:\me\demo\globo.ticketmng\globo.ticketmng.insfratructure\mail\
+++EmailService.cs
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:d:\me\demo\globo.ticketmng\globo.ticketmng.insfratructure\mail\emailservice.cs
+++InsfratructureServiceRegistration.cs
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:d:\me\demo\globo.ticketmng\globo.ticketmng.insfratructure\insfratructureserviceregistration.cs
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:>697
+++SendGrid (9.25.3)
+i:{0d07c424-976c-40f9-acaf-72f4589c5151}:>699
+++Core
+i:{af3a8cab-f30b-4c82-a39a-a5985fa9b9d5}:Core
+++Globo.TicketMng.Domain
+i:{a5267f7d-e742-4f28-aa46-230a61962ead}:Globo.TicketMng.Domain
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\bin\debug\net6.0\globo.ticketmng.domain.dll
+++Common
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\common\
+++Entities
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\entities\
+++AuditableEntity.cs
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\common\auditableentity.cs
+++Category.cs
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\entities\category.cs
+++Event.cs
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\entities\event.cs
+++Order.cs
+i:{8cbe124b-9b9c-4cd3-b06d-bb49798861c4}:d:\me\demo\globo.ticketmng\globo.ticketmng.domain\entities\order.cs
+++Contracts
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\
+++Exceptions
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\exceptions\
+++Features
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\
+++Model
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\model\
+++Profiles
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\profiles\
+++Responses
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\responses\
+++ApplicationServiceRegistration.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\applicationserviceregistration.cs
+++Persistence
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\persistence\
+++BadRequestException.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\exceptions\badrequestexception.cs
+++NotFoundException.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\exceptions\notfoundexception.cs
+++ValidationException.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\exceptions\validationexception.cs
+++Categories
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\
+++Events
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\
+++Email.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\model\email.cs
+++EmailSettings.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\model\emailsettings.cs
+++MappingProfile.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\profiles\mappingprofile.cs
+++BaseResponse.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\responses\baseresponse.cs
+++AutoMapper (11.0.1)
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>702
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>696
+++FluentValidation (10.3.6)
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>700
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>695
+++MediatR (10.0.1)
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>698
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:>703
+++IMailService.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\insfratructure\imailservice.cs
+++IAsyncRepository.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\persistence\iasyncrepository.cs
+++ICategoryRepository.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\persistence\icategoryrepository.cs
+++IEventRepository.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\persistence\ieventrepository.cs
+++IOrderRepository.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\contracts\persistence\iorderrepository.cs
+++Commands
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\commands\
+++Queries
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\queries\
+++CreateCategory
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\createcategory\
+++GetCategoryList
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylist\
+++GetCategoryListWithEvents
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylistwithevents\
+++CreateEvent
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\commands\createevent\
+++GetEventList
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\queries\geteventlist\
+++CreateCategoryCommand.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\createcategory\createcategorycommand.cs
+++CreateCategoryCommandHandler.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\createcategory\createcategorycommandhandler.cs
+++CreateCategoryCommandResponse.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\createcategory\createcategorycommandresponse.cs
+++CreateCategoryCommandValidator.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\createcategory\createcategorycommandvalidator.cs
+++CreateCategoryDto.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\commands\createcategory\createcategorydto.cs
+++CategoryListVM.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylist\categorylistvm.cs
+++GetCategoryListHandler.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylist\getcategorylisthandler.cs
+++GetCategoryListQuery.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylist\getcategorylistquery.cs
+++CategoryEventDto.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylistwithevents\categoryeventdto.cs
+++CategoryEventListVM.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylistwithevents\categoryeventlistvm.cs
+++GetCategoryListWithEventsHandler.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylistwithevents\getcategorylistwitheventshandler.cs
+++GetCategoryListWithEventsQuery.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\categories\queries\getcategorylistwithevents\getcategorylistwitheventsquery.cs
+++CreateEventCommand.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\commands\createevent\createeventcommand.cs
+++CreateEventCommandHandler.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\commands\createevent\createeventcommandhandler.cs
+++CreateEventCommandValidator.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\commands\createevent\createeventcommandvalidator.cs
+++EventListVM.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\queries\geteventlist\eventlistvm.cs
+++GetEventListQuery.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\queries\geteventlist\geteventlistquery.cs
+++GetEventListQueryHandler.cs
+i:{322a04fd-3f79-465e-8e80-f961284bdc8e}:d:\me\demo\globo.ticketmng\globo.ticketmng.application\features\events\queries\geteventlist\geteventlistqueryhandler.cs
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:>908
+++Microsoft.Extensions.Configuration (6.0.0)
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:>1226
+++Migrations
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\migrations\
+++20220302070513_init_migration.cs
+++TicketMngDbContextModelSnapshot.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\migrations\ticketmngdbcontextmodelsnapshot.cs
+++20220302070513_init_migration.Designer.cs
+++20220302071331_init_migration.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\migrations\20220302071331_init_migration.cs
+++20220302071331_init_migration.Designer.cs
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\migrations\20220302071331_init_migration.designer.cs
+++NewFolder
+++Database
+++Scripts
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\scripts\
+++Category.sql
+i:{4858a1b8-0c19-4ec0-a34a-99470ceb0d71}:d:\me\demo\globo.ticketmng\globo.ticketmng.persistence\scripts\category.sql
+++ValuesController.cs
+++CategoryController.cs
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:d:\me\demo\globo.ticketmng\globo.ticketmng.api\controllers\categorycontroller.cs
+++Microsoft.AspNetCore.Mvc.Abstractions (2.2.0)
+i:{99de68ac-7216-4078-9c9d-80aebbcb5496}:>1286

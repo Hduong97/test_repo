@@ -1,0 +1,17 @@
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Persistence.deps.json
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Persistence.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\ref\Globo.TicketMng.Persistence.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Persistence.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Application.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Domain.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Application.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\bin\Debug\net6.0\Globo.TicketMng.Domain.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.csproj.AssemblyReference.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.AssemblyInfoInputs.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.AssemblyInfo.cs
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.csproj.CoreCompileInputs.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.csproj.CopyComplete
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\ref\Globo.TicketMng.Persistence.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Persistence\obj\Debug\net6.0\Globo.TicketMng.Persistence.pdb

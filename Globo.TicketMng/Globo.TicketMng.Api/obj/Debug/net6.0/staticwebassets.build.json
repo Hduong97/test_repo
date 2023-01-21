@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z+3rWod8ukGrA+gZ+zM/+WUbNfYI2ovZlrb4SbGMR7c=",
+  "Source": "Globo.TicketMng.Api",
+  "BasePath": "_content/Globo.TicketMng.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

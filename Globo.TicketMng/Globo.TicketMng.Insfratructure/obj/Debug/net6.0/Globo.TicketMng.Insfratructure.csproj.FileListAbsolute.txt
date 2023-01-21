@@ -1,0 +1,17 @@
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Insfratructure.deps.json
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Insfratructure.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\ref\Globo.TicketMng.Insfratructure.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Insfratructure.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Application.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Domain.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Application.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\bin\Debug\net6.0\Globo.TicketMng.Domain.pdb
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.csproj.AssemblyReference.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.AssemblyInfoInputs.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.AssemblyInfo.cs
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.csproj.CoreCompileInputs.cache
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.csproj.CopyComplete
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\ref\Globo.TicketMng.Insfratructure.dll
+D:\Me\Demo\Globo.TicketMng\Globo.TicketMng.Insfratructure\obj\Debug\net6.0\Globo.TicketMng.Insfratructure.pdb

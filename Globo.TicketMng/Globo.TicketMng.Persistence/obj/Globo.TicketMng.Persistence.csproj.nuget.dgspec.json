@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj": {}
+  },
+  "projects": {
+    "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj",
+        "projectName": "Globo.TicketMng.Application",
+        "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj",
+        "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
+        "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj": {
+                "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
+        "projectName": "Globo.TicketMng.Domain",
+        "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\Globo.TicketMng.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
+        "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj",
+        "projectName": "Globo.TicketMng.Persistence",
+        "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\Globo.TicketMng.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hai Duong\\.nuget\\packages\\",
+        "outputPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hai Duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj": {
+                "projectPath": "D:\\Me\\Demo\\Globo.TicketMng\\Globo.TicketMng.Application\\Globo.TicketMng.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
